@@ -1,5 +1,5 @@
 # config valid only for Capistrano 3.1
-lock '3.1.0'
+lock '3.6.1'
 
 set :application, 'testapp4'
 set :repo_url, 'git@github.com:venkat-gameopedia/testapp4.git'
