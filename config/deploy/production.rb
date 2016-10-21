@@ -1,4 +1,5 @@
 set :stage, :production
+set :deploy_to, '/var/www/testapp4'
 # Simple Role Syntax
 # ==================
 # Supports bulk-adding hosts to roles, the primary
